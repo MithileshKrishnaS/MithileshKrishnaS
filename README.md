@@ -32,17 +32,6 @@ Highlights from my professional experience:
 
 These outcomes describe professional work. Employer-owned source code and internal implementation details are not included here.
 
-## Public project examples
-
-These repositories are earlier public projects and learning examples. They are separate from the professional systems described above.
-
-| Repository | What to explore |
-| --- | --- |
-| [Field Management](https://github.com/MithileshKrishnaS/field-management) | Angular 15 and TypeScript application with staff views, routing, HTTP services, RxJS, and Tailwind CSS. |
-| [YouFit API](https://github.com/MithileshKrishnaS/youfit-node) | A small Node.js / Express service exposing exercise-data endpoints. |
-| [YouFit](https://github.com/MithileshKrishnaS/youfit) | An earlier React frontend project for a fitness application. |
-| [Angular Forms](https://github.com/MithileshKrishnaS/angular-forms) | An Angular forms practice project with validation and dependent country/city selections. |
-
 ## What I bring to a team
 
 - Ownership across UI, APIs, database performance, and deployment workflows.
